@@ -5,4 +5,4 @@ public class test{
 			System.out.println(arr[i]);
 		}
 	}
-}
+} 
